@@ -50,11 +50,6 @@ O curso é dividido em módulos que abrangem desde os conceitos básicos até as
     - Segmentação de imagens 
     - Aplicações em carros autônomos , robótica  e reconhecimento facial 
 
-## Recursos 
-
-- [Link para o curso](https://www.google.com/search?q=https://www.google.com/search%3Fq%3Dlink%2Bpara%2Bo%2Bcurso)
-- [Link para a plataforma de estudos](https://www.google.com/search?q=https://www.google.com/search%3Fq%3Dlink%2Bpara%2Ba%2Bplataforma%2Bde%2Bestudos)
-- [Outros recursos úteis](https://www.google.com/search?q=https://www.google.com/search%3Fq%3Doutros%2Brecursos%2B%25C3%25BATEis)
 
 ## Status do curso 
 
