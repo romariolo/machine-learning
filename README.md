@@ -53,7 +53,7 @@ O curso é dividido em módulos que abrangem desde os conceitos básicos até as
 
 ## Status do curso 
 
-- [ ]  Módulo 1: Introdução ao Machine Learning
+- [ x ]  Módulo 1: Introdução ao Machine Learning
 - [ ]  Módulo 2: Programação para Machine Learning
 - [ ]  Módulo 3: Algoritmos de Treinamento em Machine Learning
 - [ ]  Módulo 4: Teoria do Aprendizado Estatístico
